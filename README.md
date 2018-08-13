@@ -2,7 +2,7 @@ VirtueSign
 ====
 Augmented reality application based on android to learn how to use sign language. Made with Unity.
 
-Obviously you need to print set of card with marker.
+Obviously you need to print set of card with marker which i have include in AR Marker folder
 
 ## Development
 This project is discontinued as it was done for my thesis.
